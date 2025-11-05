@@ -1,10 +1,15 @@
 <!--
   README.md for Private Academic Repository
-  Author: [Your Name]
+  Author: Avanish Kumar
   Course: M.Tech (Information Technology)
   University: MMMUT Gorakhpur
 -->
-
+<!-- Prevent indexing -->
+<meta name="robots" content="noindex, nofollow">
+<!--
+  Googlebot: noindex
+  Bingbot: noindex
+-->
 <h1 align="center">🎓 M.Tech IT @ MMMUT Gorakhpur</h1>
 
 <p align="center">
