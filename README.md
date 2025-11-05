@@ -61,9 +61,9 @@ Please follow these simple guidelines:
 ## 🧑‍🎓 Maintainer
 
 **Maintained by:**  
-> [Your Name]  
+> Avanish Kumar 
 > M.Tech (Information Technology), MMMUT Gorakhpur  
-> *(Batch of YYYY–YYYY)*  
+> *(Batch of 2025–2027)*  
 
 If you’re part of our batch and need access or updates, contact me directly.
 
